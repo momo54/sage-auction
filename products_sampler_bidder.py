@@ -11,8 +11,9 @@ products= products_file.read()
 
 selecteds_file = open(sys.argv[2], 'w')
 
-for product in random.choices(products.splitlines(),k=int(sys.argv[3])) :
-    selecteds_file.write('<'+product+'>')
+for product in random.sample(products.splitlines(),k=int(sys.argv[3])) :
+    bid=str(random.randint(1,100))
+    selecteds_file.write('<'+product+'> '+bid)
     selecteds_file.write('\n')
 
 products_file.close()

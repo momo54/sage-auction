@@ -1,9 +1,0 @@
-prefix wsdbm: <http://db.uwaterloo.ca/~galuc/wsdbm/>
-prefix purl: <http://www.purl.org/>
-prefix auction: <http://www.example.auction.org/>
-prefix owl: <http://www.w3.org/2002/07/owl#>
-prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
-
-select ?product where {
-  ?product rdf:type wsdbm:ProductCategory11
-}

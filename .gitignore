@@ -1,0 +1,6 @@
+
+# ignore experience static elements
+res/*
+watdiv_queries/*
+watdiv-stress-100/*
+FIRST_RUN_RES/*

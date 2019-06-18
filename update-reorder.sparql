@@ -1,0 +1,131 @@
+prefix wsdbm: <http://db.uwaterloo.ca/~galuc/wsdbm/>
+prefix auction: <http://www.example.auction.org/>
+prefix owl: <http://www.w3.org/2002/07/owl#>
+prefix xsd: <http://www.w3.org/2001/XMLSchema#>
+
+delete {
+    wsdbm:Product0 ?p1 ?o1 .
+    ?s2 ?p2 wsdbm:Product0 .
+
+    wsdbm:Product10287 ?p3 ?o3 .
+    ?s4 ?p4 wsdbm:Product10287 .
+
+    wsdbm:Product10488 ?p5 ?o5 .
+    ?s6 ?p6 wsdbm:Product1048 .
+
+    wsdbm:Product1 ?p7 ?o7 .
+    ?s8 ?p8 wsdbm:Product1 .
+
+    wsdbm:Product12111 ?p9 ?o9 .
+    ?s10 ?p10 wsdbm:Product12111 .
+
+    wsdbm:Product10663 ?p11 ?o211 .
+    ?s12 ?p12 wsdbm:Product10663 .
+
+    wsdbm:Product12728 ?p13 ?o13 .
+    ?s14 ?p14 wsdbm:Product12728 .
+
+    wsdbm:Product1574 ?p15 ?o15 .
+    ?s16 ?p16 wsdbm:Product1574 .
+
+    wsdbm:Product18361 ?p17 ?o17 .
+    ?s18 ?p18 wsdbm:Product18361 .
+
+    wsdbm:Product20015 ?p19 ?o19 .
+    ?s20 ?p20 wsdbm:Product20015 .
+}
+
+insert {
+  auction:0001 auction:bid "30"^^xsd:integer ;
+    auction:sponsor wsdbm:User10039 ;
+    ?p1 ?o1 ;
+    owl:sameAs wsdbm:Product0 .
+  ?s2 ?p2 auction:0001 .
+
+  auction:0002 auction:bid "20"^^xsd:integer ;
+    auction:sponsor wsdbm:User ;
+    ?p3 ?o3 ;
+    owl:sameAs wsdbm:Product10287 .
+  ?s4 ?p4 auction:0002 .
+
+  auction:0003 auction:bid "100"^^xsd:integer ;
+    auction:sponsor wsdbm:User ;
+    ?p5 ?o5 ;
+    owl:sameAs wsdbm:Product10488 .
+  ?s6 ?p6 auction:0003 .
+
+  auction:0004 auction:bid "17"^^xsd:integer ;
+    auction:sponsor wsdbm:User ;
+    ?p7 ?o7 ;
+    owl:sameAs wsdbm:Product1 .
+  ?s8 ?p8 auction:0004 .
+
+  auction:0005 auction:bid "48"^^xsd:integer ;
+    auction:sponsor wsdbm:User ;
+    ?p9 ?o9 ;
+    owl:sameAs wsdbm:Product12111 .
+  ?s10 ?p10 auction:0005 .
+
+  auction:0006 auction:bid "77"^^xsd:integer ;
+    auction:sponsor wsdbm:User10039 ;
+    ?p11 ?o211 ;
+    owl:sameAs wsdbm:Product10663 .
+  ?s12 ?p12 auction:0006 .
+
+  auction:0007 auction:bid "11"^^xsd:integer ;
+    auction:sponsor wsdbm:User10039 ;
+    ?p13 ?o13 ;
+    owl:sameAs wsdbm:Product12728 .
+  ?s14 ?p14 auction:0007 .
+
+  auction:0008 auction:bid "28"^^xsd:integer ;
+    auction:sponsor wsdbm:User10039 ;
+    ?p15 ?o15 ;
+    owl:sameAs wsdbm:Product1574 .
+  ?s16 ?p16 auction:0008 .
+
+  auction:0009 auction:bid "61"^^xsd:integer ;
+    auction:sponsor wsdbm:User10039 ;
+    ?p17 ?o17 ;
+    owl:sameAs wsdbm:Product18361 .
+  ?s18 ?p18 auction:0009 .
+
+  auction:0000 auction:bid "2"^^xsd:integer ;
+    auction:sponsor wsdbm:User10039 ;
+    ?p19 ?o19 ;
+    owl:sameAs wsdbm:Product20015 .
+  ?s20 ?p20 auction:0000 .
+
+}
+
+where {
+  wsdbm:Product0 ?p1 ?o1 .
+  ?s2 ?p2 wsdbm:Product0 .
+
+  wsdbm:Product10287 ?p3 ?o3 .
+  ?s4 ?p4 wsdbm:Product10287 .
+
+  wsdbm:Product10488 ?p5 ?o5 .
+  ?s6 ?p6 wsdbm:Product1048 .
+
+  wsdbm:Product1 ?p7 ?o7 .
+  ?s8 ?p8 wsdbm:Product1 .
+
+  wsdbm:Product12111 ?p9 ?o9 .
+  ?s10 ?p10 wsdbm:Product12111 .
+
+  wsdbm:Product10663 ?p11 ?o211 .
+  ?s12 ?p12 wsdbm:Product10663 .
+
+  wsdbm:Product12728 ?p13 ?o13 .
+  ?s14 ?p14 wsdbm:Product12728 .
+
+  wsdbm:Product1574 ?p15 ?o15 .
+  ?s16 ?p16 wsdbm:Product1574 .
+
+  wsdbm:Product18361 ?p17 ?o17 .
+  ?s18 ?p18 wsdbm:Product18361 .
+
+  wsdbm:Product20015 ?p19 ?o19 .
+  ?s20 ?p20 wsdbm:Product20015 .
+}

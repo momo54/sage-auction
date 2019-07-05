@@ -29,7 +29,7 @@ def reobid(sponsor, entity, bid_amount):
 
     index="auction:"+str(1000-int_bid)+"-"+s_entity+"-"+str_bid
 
-    print("prefix wsdbm: <http://db.uwaterloo.ca/~galuc/wsdbm/> prefix auction: <http://auction.example.org/> prefix owl: <http://www.w3.org/2002/07/owl#> prefix xsd: <http://www.w3.org/2001/XMLSchema#> delete { %s ?p1 ?o1 . ?s2 ?p2 %s } insert { %s auction:bid '%s'^^xsd:integer ; auction:sponsor %s ; ?p1 ?o1 ; owl:sameAs %s . ?s2 ?p2 %s. } where { %s ?p1 ?o1 . ?s2 ?p2 %s }"%(entity, entity, index, bid_amount, sponsor, entity, index, entity, entity))
+    print("prefix wsdbm: <http://db.uwaterloo.ca/~galuc/wsdbm/> prefix auction: <http://auction.example.org/> prefix owl: <http://www.w3.org/2002/07/owl#> prefix xsd: <http://www.w3.org/2001/XMLSchema#> delete { %s ?p1 ?o1 . ?s2 ?p2 %s } insert { %s auction:bid '%s'^^xsd:integer ; auction:sponsor %s ; ?p1 ?o1 ; owl:sameAs %s . ?s2 ?p2 %s. } where { %s ?p1 ?o1 . optional { ?s2 ?p2 %s } }"%(entity, entity, index, bid_amount, sponsor, entity, index, entity, entity))
 
 def bid_chain(file, kind):
     function_choice={
@@ -75,6 +75,17 @@ def nairet(file, dest):
         sampled_workload_naived.write(query)
         sampled_workload_naived.write('\n')
 
+def tffret(file, dest):
+    queries_file = open(file, 'r')
+    content = queries_file.read()
+
+    dest_file = open(dest, 'w')
+
+    for qy in content.splitlines() :
+        query= qy+" limit 1"
+        dest_file.write(query)
+        dest_file.write('\n')
+
 def rollback_chain(file):
     sponsor='wsdbm:User0'
 
@@ -119,6 +130,9 @@ if (sys.argv[1] == 'reobid_chain'):
 
 if (sys.argv[1] == 'nairet'):
     nairet(sys.argv[2],sys.argv[3])
+
+if (sys.argv[1] == 'tffret'):
+    tffret(sys.argv[2],sys.argv[3])
 
 if (sys.argv[1] == 'rollback_chain'):
     rollback_chain(sys.argv[2])

@@ -71,6 +71,29 @@ run
 python bid-methods.py reobid_chain products_sampled_biddedd.dmp > update_queries_reorder.sparql
 ```
 
+A SPARQL update query to force index reordering according to bids looks like:
+```
+prefix wsdbm: <http://db.uwaterloo.ca/~galuc/wsdbm/>
+prefix auction: <http://auction.example.org/>
+prefix owl: <http://www.w3.org/2002/07/owl#>
+prefix xsd: <http://www.w3.org/2001/XMLSchema#>
+delete {
+  <http://db.uwaterloo.ca/~galuc/wsdbm/Product17132> ?p1 ?o1 .
+  ?s2 ?p2 <http://db.uwaterloo.ca/~galuc/wsdbm/Product17132> }
+insert {
+  auction:991-Product17132-9 auction:bid '9'^^xsd:integer ;
+   auction:sponsor wsdbm:User0 ;
+   ?p1 ?o1 ;
+   owl:sameAs <http://db.uwaterloo.ca/~galuc/wsdbm/Product17132> .
+  ?s2 ?p2 auction:991-Product17132-9. }
+where {
+  <http://db.uwaterloo.ca/~galuc/wsdbm/Product17132> ?p1 ?o1 .
+  ?s2 ?p2 <http://db.uwaterloo.ca/~galuc/wsdbm/Product17132>
+}
+```
+
+It corresponds to a renaming of an entity to force a lexicographic order in indexes.
+
 # Query treatment pipeline
 ## all.rq
 *all.rq* is a file containing all watdiv queries used in the sage experiments.

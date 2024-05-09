@@ -51,6 +51,19 @@ run
 python bid-methods.py naibid_chain products_sampled_biddedd.dmp > update_queries_naive.sparql
 ```
 
+An SPARQL update query to insert bids in the dataset looks like:
+```
+prefix wsdbm: <http://db.uwaterloo.ca/~galuc/wsdbm/>
+prefix auction: <http://auction.example.org/>
+prefix owl: <http://www.w3.org/2002/07/owl#>
+prefix xsd: <http://www.w3.org/2001/XMLSchema#>
+insert data {
+<http://db.uwaterloo.ca/~galuc/wsdbm/Product17132> auction:bid '9'^^xsd:integer ;
+    auction:sponsor wsdbm:User0 ;
+    owl:sameAs auction:636-Product17132-9.
+}
+```
+
 ## update_queries_reorder.sparql
 this file contains lines of sparql update queries for the reordering approach.
 run

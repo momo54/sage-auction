@@ -130,7 +130,7 @@ python bid-methods.py nairet workload_uniq_relevant_full.sparql workload_uniq_re
 ```
 *note: nairet stands for naive-retrieve*
 
-A prototypical SPARQL query returning bidded results first is like:
+A prototypical SPARQL query returning bidded results first with naive update queries looks like:
 
 ```
 SELECT (coalesce( ?altid, ?v0 ) as ?link) ?v3 ?v2 WHERE {

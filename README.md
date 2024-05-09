@@ -109,6 +109,17 @@ it is obtained by running
 ```bash
 uniq -c all.rq > workload_uniq_full.sparql
 ```
+
+A prototypical query belonging to this set of queries looks like a normal watdiv query:
+```
+SELECT * WHERE {
+?v0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://db.uwaterloo.ca/~galuc/wsdbm/ProductCategory0> .
+?v0 <http://db.uwaterloo.ca/~galuc/wsdbm/hasGenre> ?v2 .
+?v3 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v0 .
+}
+
+```
+
 ## workload_uniq_relevant_full.sparql
 this file contains all relevant queries in the workload. that is, all queries that relate to Products of 
 the database. it is obtained by running

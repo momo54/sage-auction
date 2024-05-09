@@ -94,6 +94,18 @@ python bid-methods.py nairet workload_uniq_relevant_full.sparql workload_uniq_re
 ```
 *note: nairet stands for naive-retrieve*
 
+A prototypical SPARQL query returning bidded results first is like:
+
+```
+SELECT (coalesce( ?altid, ?v0 ) as ?link) ?v3 ?v2 WHERE {
+?v0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://db.uwaterloo.ca/~galuc/wsdbm/ProductCategory0> .
+?v0 <http://db.uwaterloo.ca/~galuc/wsdbm/hasGenre> ?v2 .
+?v3 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v0 .
+optional { ?v0  <http://auction.example.org/bid> ?bid;
+<http://www.w3.org/2002/07/owl#sameAs> ?altid } }
+order by ?bid
+```
+
 ## workload_uniq_relevant_full_limit.sparql
 this is similar to *relevant_full_naive* but is a simpler rewriting that appends `limit 1`
 at the end of every line.

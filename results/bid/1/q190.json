@@ -1,0 +1,200 @@
+[
+    {
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Product6855",
+        "?v7": "\"2017-08-31\"",
+        "?v4": "\"he's choose collocation\"",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/SubGenre47",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer16323",
+        "?v6": "http://db.uwaterloo.ca/~galuc/wsdbm/Genre1",
+        "?v2": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic183",
+        "?bid": "\"62\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/942-Product6855-62"
+    },
+    {
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Product6855",
+        "?v7": "\"2017-08-31\"",
+        "?v4": "\"he's choose collocation\"",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/SubGenre47",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer28846",
+        "?v6": "http://db.uwaterloo.ca/~galuc/wsdbm/Genre1",
+        "?v2": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic183",
+        "?bid": "\"62\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/942-Product6855-62"
+    },
+    {
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Product6855",
+        "?v7": "\"2017-08-31\"",
+        "?v4": "\"he's choose collocation\"",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/SubGenre47",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer44830",
+        "?v6": "http://db.uwaterloo.ca/~galuc/wsdbm/Genre1",
+        "?v2": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic183",
+        "?bid": "\"62\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/942-Product6855-62"
+    },
+    {
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Product6855",
+        "?v7": "\"2017-08-31\"",
+        "?v4": "\"he's choose collocation\"",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/SubGenre47",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer85604",
+        "?v6": "http://db.uwaterloo.ca/~galuc/wsdbm/Genre1",
+        "?v2": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic183",
+        "?bid": "\"62\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/942-Product6855-62"
+    },
+    {
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Product11107",
+        "?v7": "\"2017-08-15\"",
+        "?v4": "\"spicy barnacles Barbarella dissatisfaction's household's tipple medic recalcitrance's coiffure atavism modernizes\"",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/SubGenre109",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer32018",
+        "?v6": "http://db.uwaterloo.ca/~galuc/wsdbm/Genre15",
+        "?v2": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic226",
+        "?bid": "\"58\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/425-Product11107-58"
+    },
+    {
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Product11107",
+        "?v7": "\"2017-08-15\"",
+        "?v4": "\"spicy barnacles Barbarella dissatisfaction's household's tipple medic recalcitrance's coiffure atavism modernizes\"",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/SubGenre109",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer65157",
+        "?v6": "http://db.uwaterloo.ca/~galuc/wsdbm/Genre15",
+        "?v2": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic226",
+        "?bid": "\"58\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/425-Product11107-58"
+    },
+    {
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Product11107",
+        "?v7": "\"2017-08-15\"",
+        "?v4": "\"spicy barnacles Barbarella dissatisfaction's household's tipple medic recalcitrance's coiffure atavism modernizes\"",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/SubGenre109",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer66007",
+        "?v6": "http://db.uwaterloo.ca/~galuc/wsdbm/Genre15",
+        "?v2": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic226",
+        "?bid": "\"58\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/425-Product11107-58"
+    },
+    {
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Product11107",
+        "?v7": "\"2017-08-15\"",
+        "?v4": "\"spicy barnacles Barbarella dissatisfaction's household's tipple medic recalcitrance's coiffure atavism modernizes\"",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/SubGenre109",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer70062",
+        "?v6": "http://db.uwaterloo.ca/~galuc/wsdbm/Genre15",
+        "?v2": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic226",
+        "?bid": "\"58\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/425-Product11107-58"
+    },
+    {
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Product11107",
+        "?v7": "\"2017-08-15\"",
+        "?v4": "\"spicy barnacles Barbarella dissatisfaction's household's tipple medic recalcitrance's coiffure atavism modernizes\"",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/SubGenre109",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer81155",
+        "?v6": "http://db.uwaterloo.ca/~galuc/wsdbm/Genre15",
+        "?v2": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic226",
+        "?bid": "\"58\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/425-Product11107-58"
+    },
+    {
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Product10946",
+        "?v7": "\"2016-03-16\"",
+        "?v4": "\"adumbrated affected upbraid centenarians whips vermin turnoff winching corrugate malingerer peacock's shaping springier feminine's harvest's settings wile Japan mover's readers buggers\"",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/SubGenre79",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer88567",
+        "?v6": "http://db.uwaterloo.ca/~galuc/wsdbm/Genre1",
+        "?v2": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic28"
+    },
+    {
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Product13289",
+        "?v7": "\"2017-06-23\"",
+        "?v4": "\"Lapps critique lightning's nites complete\"",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/SubGenre20",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer51161",
+        "?v6": "http://db.uwaterloo.ca/~galuc/wsdbm/Genre20",
+        "?v2": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic121"
+    },
+    {
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Product13289",
+        "?v7": "\"2017-06-23\"",
+        "?v4": "\"Lapps critique lightning's nites complete\"",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/SubGenre20",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer65293",
+        "?v6": "http://db.uwaterloo.ca/~galuc/wsdbm/Genre20",
+        "?v2": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic121"
+    },
+    {
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Product13289",
+        "?v7": "\"2017-06-23\"",
+        "?v4": "\"Lapps critique lightning's nites complete\"",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/SubGenre20",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer77193",
+        "?v6": "http://db.uwaterloo.ca/~galuc/wsdbm/Genre20",
+        "?v2": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic121"
+    },
+    {
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Product13289",
+        "?v7": "\"2017-06-23\"",
+        "?v4": "\"Lapps critique lightning's nites complete\"",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/SubGenre20",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer79241",
+        "?v6": "http://db.uwaterloo.ca/~galuc/wsdbm/Genre20",
+        "?v2": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic121"
+    },
+    {
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Product14007",
+        "?v7": "\"2015-02-07\"",
+        "?v4": "\"Packard stained streamlines superintending rectory's indictments sunblock's mayor's consciences abusers Sindhi's optimistic raggedly chiseler's dumbwaiter's Phoenix possessively blank defrauding paraphrasing woodcarving tureen's fruitlessly\"",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/SubGenre77",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer4105",
+        "?v6": "http://db.uwaterloo.ca/~galuc/wsdbm/Genre7",
+        "?v2": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic75"
+    },
+    {
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Product14007",
+        "?v7": "\"2015-02-07\"",
+        "?v4": "\"Packard stained streamlines superintending rectory's indictments sunblock's mayor's consciences abusers Sindhi's optimistic raggedly chiseler's dumbwaiter's Phoenix possessively blank defrauding paraphrasing woodcarving tureen's fruitlessly\"",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/SubGenre77",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer68097",
+        "?v6": "http://db.uwaterloo.ca/~galuc/wsdbm/Genre7",
+        "?v2": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic75"
+    },
+    {
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Product14007",
+        "?v7": "\"2015-02-07\"",
+        "?v4": "\"Packard stained streamlines superintending rectory's indictments sunblock's mayor's consciences abusers Sindhi's optimistic raggedly chiseler's dumbwaiter's Phoenix possessively blank defrauding paraphrasing woodcarving tureen's fruitlessly\"",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/SubGenre90",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer4105",
+        "?v6": "http://db.uwaterloo.ca/~galuc/wsdbm/Genre10",
+        "?v2": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic80"
+    },
+    {
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Product14007",
+        "?v7": "\"2015-02-07\"",
+        "?v4": "\"Packard stained streamlines superintending rectory's indictments sunblock's mayor's consciences abusers Sindhi's optimistic raggedly chiseler's dumbwaiter's Phoenix possessively blank defrauding paraphrasing woodcarving tureen's fruitlessly\"",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/SubGenre90",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer68097",
+        "?v6": "http://db.uwaterloo.ca/~galuc/wsdbm/Genre10",
+        "?v2": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic80"
+    },
+    {
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Product15807",
+        "?v7": "\"2015-10-04\"",
+        "?v4": "\"pink cyclic malleable matrimonial mellowness's fleshliest disreputably student malignancy's relic conflicts mewl Berenice Hepburn sustain mauve's\"",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/SubGenre65",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer17358",
+        "?v6": "http://db.uwaterloo.ca/~galuc/wsdbm/Genre10",
+        "?v2": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic36"
+    },
+    {
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Product16555",
+        "?v7": "\"2015-04-10\"",
+        "?v4": "\"licentiousness babel's Vicki polythene fetch ablutions crested coach rarefy\"",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/SubGenre71",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer26366",
+        "?v6": "http://db.uwaterloo.ca/~galuc/wsdbm/Genre14",
+        "?v2": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic24"
+    }
+]

@@ -1,0 +1,27 @@
+name: SaGe server with PostgreSQL backend
+maintainer: Thomas Minier <thomas.minier@univ-nantes.fr>
+public_url: http://localhost:8000
+quota: 100000000
+max_results: 200000000
+graphs:
+-
+  name: watdiv_renamed
+  uri: http://example.org/watdiv_renamed
+  description: watdiv with auction renaming
+  backend: postgres
+  # Name of the SQL database containing RDF data
+  dbname: watdiv_renamed
+  # User name used to authenticate with the PostgreSQL
+  user: watdiv
+  password: ''
+#  host: localhost
+#  port: 5432
+-
+  name: watdiv
+  uri: http://example.org/watdiv
+  description: watdiv with bidding in clear
+  # Another backend for PostgreSQL that uses a dictionary based layout to reduce the space required to store RDF datasets
+  backend: postgres
+  dbname: watdiv
+  user: watdiv
+  password: ''

@@ -1,0 +1,104 @@
+[
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product2368",
+        "?v3": "\"2016-04-14\"",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Website4713",
+        "?bid": "\"92\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/834-Product2368-92"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product10047",
+        "?v3": "\"2018-01-13\"",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Website1553"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product11521",
+        "?v3": "\"2018-01-04\"",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Website915"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product12150",
+        "?v3": "\"2017-09-11\"",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Website366"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product12452",
+        "?v3": "\"2015-03-28\"",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Website2603"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product12879",
+        "?v3": "\"2019-07-27\"",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Website3166"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product12933",
+        "?v3": "\"2018-01-09\"",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Website773"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product15512",
+        "?v3": "\"2019-03-16\"",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Website4617"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product15736",
+        "?v3": "\"2017-05-20\"",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Website4025"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product16160",
+        "?v3": "\"2015-05-16\"",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Website1645"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product18308",
+        "?v3": "\"2015-09-18\"",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Website3730"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product2078",
+        "?v3": "\"2017-04-10\"",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Website3809"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product20851",
+        "?v3": "\"2017-12-28\"",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Website3059"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product21301",
+        "?v3": "\"2016-07-26\"",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Website3540"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product21349",
+        "?v3": "\"2014-01-28\"",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Website4230"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product21854",
+        "?v3": "\"2015-05-13\"",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Website4491"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product2215",
+        "?v3": "\"2019-04-14\"",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Website2824"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product22752",
+        "?v3": "\"2016-05-25\"",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Website4213"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product23007",
+        "?v3": "\"2014-07-20\"",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Website4500"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product24108",
+        "?v3": "\"2014-01-19\"",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Website2957"
+    }
+]

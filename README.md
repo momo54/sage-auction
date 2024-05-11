@@ -19,8 +19,8 @@ conjunctive queries with STAR, PATH and SNOWFLAKE shapes. Removing
 duplicate queries from the workload reduces it to around 4000 queries. Queries are stored in 
 # all.rq
 
-We use PostgreSQL as backend with B+ trees and 3 indexes SPO, POS and
-OSP.
+We use Sage https://github.com/sage-org/sage-engine (branch auction) with PostgreSQL as backend with B+ trees and 3 indexes SPO, POS and
+OSP. To ensure correction, a PSO index should be added.
 
 # Data
 the original data is the watdiv10M.ttl file from [WatDiv](https://dsg.uwaterloo.ca/watdiv/#download)

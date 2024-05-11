@@ -1,0 +1,142 @@
+[
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product5962",
+        "?v3": "\"roller's gardening incites intendeds locket's goddaughter kayak opaquer horrific tush's bulkhead's valise primarily misanthrope's genealogy rummage's\"",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic37",
+        "?bid": "\"90\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/1-Product5962-90"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product5962",
+        "?v3": "\"roller's gardening incites intendeds locket's goddaughter kayak opaquer horrific tush's bulkhead's valise primarily misanthrope's genealogy rummage's\"",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic71",
+        "?bid": "\"90\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/1-Product5962-90"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product5962",
+        "?v3": "\"roller's gardening incites intendeds locket's goddaughter kayak opaquer horrific tush's bulkhead's valise primarily misanthrope's genealogy rummage's\"",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic189",
+        "?bid": "\"90\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/1-Product5962-90"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product5962",
+        "?v3": "\"roller's gardening incites intendeds locket's goddaughter kayak opaquer horrific tush's bulkhead's valise primarily misanthrope's genealogy rummage's\"",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic140",
+        "?bid": "\"90\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/1-Product5962-90"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product5962",
+        "?v3": "\"roller's gardening incites intendeds locket's goddaughter kayak opaquer horrific tush's bulkhead's valise primarily misanthrope's genealogy rummage's\"",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic97",
+        "?bid": "\"90\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/1-Product5962-90"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product5962",
+        "?v3": "\"roller's gardening incites intendeds locket's goddaughter kayak opaquer horrific tush's bulkhead's valise primarily misanthrope's genealogy rummage's\"",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic99",
+        "?bid": "\"90\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/1-Product5962-90"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product22836",
+        "?v3": "\"patois's\"",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic130",
+        "?bid": "\"88\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/734-Product22836-88"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product22836",
+        "?v3": "\"patois's\"",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic223",
+        "?bid": "\"88\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/734-Product22836-88"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product22836",
+        "?v3": "\"patois's\"",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic134",
+        "?bid": "\"88\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/734-Product22836-88"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product22836",
+        "?v3": "\"patois's\"",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic150",
+        "?bid": "\"88\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/734-Product22836-88"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product22836",
+        "?v3": "\"patois's\"",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic172",
+        "?bid": "\"88\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/734-Product22836-88"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product22836",
+        "?v3": "\"patois's\"",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic106",
+        "?bid": "\"88\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/734-Product22836-88"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product22836",
+        "?v3": "\"patois's\"",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic51",
+        "?bid": "\"88\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/734-Product22836-88"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product22836",
+        "?v3": "\"patois's\"",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic119",
+        "?bid": "\"88\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/734-Product22836-88"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product22836",
+        "?v3": "\"patois's\"",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic192",
+        "?bid": "\"88\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/734-Product22836-88"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product17295",
+        "?v3": "\"wariest repentant Fritz diagonal's apparel's subscribe buddy's apogee's pollutant pestle's predecessor agitated piggybacking scrawl's unit firstborns augments\"",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic31",
+        "?bid": "\"82\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/664-Product17295-82"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product17295",
+        "?v3": "\"wariest repentant Fritz diagonal's apparel's subscribe buddy's apogee's pollutant pestle's predecessor agitated piggybacking scrawl's unit firstborns augments\"",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic132",
+        "?bid": "\"82\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/664-Product17295-82"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product17295",
+        "?v3": "\"wariest repentant Fritz diagonal's apparel's subscribe buddy's apogee's pollutant pestle's predecessor agitated piggybacking scrawl's unit firstborns augments\"",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic201",
+        "?bid": "\"82\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/664-Product17295-82"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product17295",
+        "?v3": "\"wariest repentant Fritz diagonal's apparel's subscribe buddy's apogee's pollutant pestle's predecessor agitated piggybacking scrawl's unit firstborns augments\"",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic249",
+        "?bid": "\"82\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/664-Product17295-82"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product17295",
+        "?v3": "\"wariest repentant Fritz diagonal's apparel's subscribe buddy's apogee's pollutant pestle's predecessor agitated piggybacking scrawl's unit firstborns augments\"",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic90",
+        "?bid": "\"82\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/664-Product17295-82"
+    }
+]

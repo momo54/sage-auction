@@ -1,0 +1,1 @@
+prefix wsdbm: <http://db.uwaterloo.ca/~galuc/wsdbm/> prefix auction: <http://auction.example.org/> prefix owl: <http://www.w3.org/2002/07/owl#> prefix xsd: <http://www.w3.org/2001/XMLSchema#> insert data { <http://db.uwaterloo.ca/~galuc/wsdbm/Product7566> auction:bid '23'^^xsd:integer ; auction:sponsor wsdbm:User0 ; owl:sameAs auction:119-Product7566-23. }

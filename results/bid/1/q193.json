@@ -1,0 +1,142 @@
+[
+    {
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Product1904",
+        "?v3": "\"relying\"",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer15664",
+        "?bid": "\"98\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/735-Product1904-98"
+    },
+    {
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Product1904",
+        "?v3": "\"relying\"",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer29444",
+        "?bid": "\"98\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/735-Product1904-98"
+    },
+    {
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Product6401",
+        "?v3": "\"sneakers counselings unseal moistened clam wildly Arcadian's H  loise's enthrones minuteman's lumbered asshole's arpeggios accumulates plummets Catholic's procrastination localizing saga's gazelles alkaline poorhouses equanimity's\"",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer49759",
+        "?bid": "\"98\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/983-Product6401-98"
+    },
+    {
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Product21656",
+        "?v3": "\"tautology's\"",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer36881",
+        "?bid": "\"96\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/646-Product21656-96"
+    },
+    {
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Product21656",
+        "?v3": "\"tautology's\"",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer41693",
+        "?bid": "\"96\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/646-Product21656-96"
+    },
+    {
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Product21656",
+        "?v3": "\"tautology's\"",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer8659",
+        "?bid": "\"96\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/646-Product21656-96"
+    },
+    {
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Product5151",
+        "?v3": "\"mightily Freya redress energized astronautics flashes rankest geldings corruptness raining permuting medallions extremest Baha'ullah helpers housemaid thunderhead's Champollion effaces logarithms stales\"",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer25523",
+        "?bid": "\"87\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/156-Product5151-87"
+    },
+    {
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Product5151",
+        "?v3": "\"mightily Freya redress energized astronautics flashes rankest geldings corruptness raining permuting medallions extremest Baha'ullah helpers housemaid thunderhead's Champollion effaces logarithms stales\"",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer28434",
+        "?bid": "\"87\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/156-Product5151-87"
+    },
+    {
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Product5991",
+        "?v3": "\"embroidery's Wiesenthal Javier's Marriott's gratification's dustless jogging zigzag's niftiest conundrum's Tl's\"",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer13827",
+        "?bid": "\"84\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/628-Product5991-84"
+    },
+    {
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Product5991",
+        "?v3": "\"embroidery's Wiesenthal Javier's Marriott's gratification's dustless jogging zigzag's niftiest conundrum's Tl's\"",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer5815",
+        "?bid": "\"84\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/628-Product5991-84"
+    },
+    {
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Product5991",
+        "?v3": "\"embroidery's Wiesenthal Javier's Marriott's gratification's dustless jogging zigzag's niftiest conundrum's Tl's\"",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer62011",
+        "?bid": "\"84\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/628-Product5991-84"
+    },
+    {
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Product5991",
+        "?v3": "\"embroidery's Wiesenthal Javier's Marriott's gratification's dustless jogging zigzag's niftiest conundrum's Tl's\"",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer69635",
+        "?bid": "\"84\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/628-Product5991-84"
+    },
+    {
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Product15482",
+        "?v3": "\"rotundas unseemlier insured's headstones cake's reigns slacking ballerina's Nexis callousing folly crotchet's steeper\"",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer12073",
+        "?bid": "\"82\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/341-Product15482-82"
+    },
+    {
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Product15482",
+        "?v3": "\"rotundas unseemlier insured's headstones cake's reigns slacking ballerina's Nexis callousing folly crotchet's steeper\"",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer6135",
+        "?bid": "\"82\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/341-Product15482-82"
+    },
+    {
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Product15482",
+        "?v3": "\"rotundas unseemlier insured's headstones cake's reigns slacking ballerina's Nexis callousing folly crotchet's steeper\"",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer61700",
+        "?bid": "\"82\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/341-Product15482-82"
+    },
+    {
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Product15482",
+        "?v3": "\"rotundas unseemlier insured's headstones cake's reigns slacking ballerina's Nexis callousing folly crotchet's steeper\"",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer78246",
+        "?bid": "\"82\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/341-Product15482-82"
+    },
+    {
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Product14655",
+        "?v3": "\"clang Instamatic's hypnotic ticked Jamal's telekinesis moor monogamy's outlived uranium boxed Dewar's bullock grandmother\"",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer11695",
+        "?bid": "\"81\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/855-Product14655-81"
+    },
+    {
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Product14655",
+        "?v3": "\"clang Instamatic's hypnotic ticked Jamal's telekinesis moor monogamy's outlived uranium boxed Dewar's bullock grandmother\"",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer12253",
+        "?bid": "\"81\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/855-Product14655-81"
+    },
+    {
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Product14655",
+        "?v3": "\"clang Instamatic's hypnotic ticked Jamal's telekinesis moor monogamy's outlived uranium boxed Dewar's bullock grandmother\"",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer22821",
+        "?bid": "\"81\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/855-Product14655-81"
+    },
+    {
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Product14655",
+        "?v3": "\"clang Instamatic's hypnotic ticked Jamal's telekinesis moor monogamy's outlived uranium boxed Dewar's bullock grandmother\"",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer74896",
+        "?bid": "\"81\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/855-Product14655-81"
+    }
+]

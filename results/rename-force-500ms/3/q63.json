@@ -1,0 +1,202 @@
+[
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product11121",
+        "?v6": "\"2474\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v5": "\"6\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v7": "\"motorizes Knapp cartwheeled\"",
+        "?v8": "http://db.uwaterloo.ca/~galuc/wsdbm/User20746",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic181",
+        "?v2": "http://auction.example.org/904-Product24439-96",
+        "?v4": "http://db.uwaterloo.ca/~galuc/wsdbm/ProductCategory1"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product11121",
+        "?v6": "\"2474\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v5": "\"6\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v7": "\"motorizes Knapp cartwheeled\"",
+        "?v8": "http://db.uwaterloo.ca/~galuc/wsdbm/User20746",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic181",
+        "?v2": "http://auction.example.org/911-Product16394-89",
+        "?v4": "http://db.uwaterloo.ca/~galuc/wsdbm/ProductCategory13"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product11121",
+        "?v6": "\"2474\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v5": "\"6\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v7": "\"motorizes Knapp cartwheeled\"",
+        "?v8": "http://db.uwaterloo.ca/~galuc/wsdbm/User20746",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic181",
+        "?v2": "http://auction.example.org/914-Product3772-86",
+        "?v4": "http://db.uwaterloo.ca/~galuc/wsdbm/ProductCategory7"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product11121",
+        "?v6": "\"2474\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v5": "\"6\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v7": "\"motorizes Knapp cartwheeled\"",
+        "?v8": "http://db.uwaterloo.ca/~galuc/wsdbm/User20746",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic181",
+        "?v2": "http://auction.example.org/916-Product23876-84",
+        "?v4": "http://db.uwaterloo.ca/~galuc/wsdbm/ProductCategory9"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product11121",
+        "?v6": "\"2474\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v5": "\"6\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v7": "\"motorizes Knapp cartwheeled\"",
+        "?v8": "http://db.uwaterloo.ca/~galuc/wsdbm/User20746",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic181",
+        "?v2": "http://auction.example.org/921-Product21439-79",
+        "?v4": "http://db.uwaterloo.ca/~galuc/wsdbm/ProductCategory2"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product11121",
+        "?v6": "\"2474\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v5": "\"6\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v7": "\"motorizes Knapp cartwheeled\"",
+        "?v8": "http://db.uwaterloo.ca/~galuc/wsdbm/User20746",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic181",
+        "?v2": "http://auction.example.org/922-Product21815-78",
+        "?v4": "http://db.uwaterloo.ca/~galuc/wsdbm/ProductCategory10"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product11121",
+        "?v6": "\"2474\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v5": "\"6\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v7": "\"motorizes Knapp cartwheeled\"",
+        "?v8": "http://db.uwaterloo.ca/~galuc/wsdbm/User20746",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic181",
+        "?v2": "http://auction.example.org/926-Product18317-74",
+        "?v4": "http://db.uwaterloo.ca/~galuc/wsdbm/ProductCategory7"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product11121",
+        "?v6": "\"2474\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v5": "\"6\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v7": "\"motorizes Knapp cartwheeled\"",
+        "?v8": "http://db.uwaterloo.ca/~galuc/wsdbm/User20746",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic181",
+        "?v2": "http://auction.example.org/926-Product5381-74",
+        "?v4": "http://db.uwaterloo.ca/~galuc/wsdbm/ProductCategory14"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product11121",
+        "?v6": "\"2474\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v5": "\"6\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v7": "\"motorizes Knapp cartwheeled\"",
+        "?v8": "http://db.uwaterloo.ca/~galuc/wsdbm/User20746",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic181",
+        "?v2": "http://auction.example.org/930-Product23943-70",
+        "?v4": "http://db.uwaterloo.ca/~galuc/wsdbm/ProductCategory9"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product11121",
+        "?v6": "\"2474\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v5": "\"6\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v7": "\"motorizes Knapp cartwheeled\"",
+        "?v8": "http://db.uwaterloo.ca/~galuc/wsdbm/User20746",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic181",
+        "?v2": "http://auction.example.org/935-Product13394-65",
+        "?v4": "http://db.uwaterloo.ca/~galuc/wsdbm/ProductCategory4"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product11121",
+        "?v6": "\"2474\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v5": "\"6\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v7": "\"motorizes Knapp cartwheeled\"",
+        "?v8": "http://db.uwaterloo.ca/~galuc/wsdbm/User20746",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic181",
+        "?v2": "http://auction.example.org/935-Product2034-65",
+        "?v4": "http://db.uwaterloo.ca/~galuc/wsdbm/ProductCategory4"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product11121",
+        "?v6": "\"2474\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v5": "\"6\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v7": "\"motorizes Knapp cartwheeled\"",
+        "?v8": "http://db.uwaterloo.ca/~galuc/wsdbm/User20746",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic181",
+        "?v2": "http://auction.example.org/936-Product3845-64",
+        "?v4": "http://db.uwaterloo.ca/~galuc/wsdbm/ProductCategory10"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product11121",
+        "?v6": "\"2474\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v5": "\"6\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v7": "\"motorizes Knapp cartwheeled\"",
+        "?v8": "http://db.uwaterloo.ca/~galuc/wsdbm/User20746",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic181",
+        "?v2": "http://auction.example.org/938-Product16189-62",
+        "?v4": "http://db.uwaterloo.ca/~galuc/wsdbm/ProductCategory1"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product11121",
+        "?v6": "\"2474\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v5": "\"6\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v7": "\"motorizes Knapp cartwheeled\"",
+        "?v8": "http://db.uwaterloo.ca/~galuc/wsdbm/User20746",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic181",
+        "?v2": "http://auction.example.org/939-Product11478-61",
+        "?v4": "http://db.uwaterloo.ca/~galuc/wsdbm/ProductCategory6"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product11121",
+        "?v6": "\"2474\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v5": "\"6\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v7": "\"motorizes Knapp cartwheeled\"",
+        "?v8": "http://db.uwaterloo.ca/~galuc/wsdbm/User20746",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic181",
+        "?v2": "http://auction.example.org/941-Product1339-59",
+        "?v4": "http://db.uwaterloo.ca/~galuc/wsdbm/ProductCategory14"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product11121",
+        "?v6": "\"2474\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v5": "\"6\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v7": "\"motorizes Knapp cartwheeled\"",
+        "?v8": "http://db.uwaterloo.ca/~galuc/wsdbm/User20746",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic181",
+        "?v2": "http://auction.example.org/942-Product20397-58",
+        "?v4": "http://db.uwaterloo.ca/~galuc/wsdbm/ProductCategory14"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product11121",
+        "?v6": "\"2474\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v5": "\"6\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v7": "\"motorizes Knapp cartwheeled\"",
+        "?v8": "http://db.uwaterloo.ca/~galuc/wsdbm/User20746",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic181",
+        "?v2": "http://auction.example.org/946-Product10788-54",
+        "?v4": "http://db.uwaterloo.ca/~galuc/wsdbm/ProductCategory6"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product11121",
+        "?v6": "\"2474\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v5": "\"6\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v7": "\"motorizes Knapp cartwheeled\"",
+        "?v8": "http://db.uwaterloo.ca/~galuc/wsdbm/User20746",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic181",
+        "?v2": "http://auction.example.org/946-Product5004-54",
+        "?v4": "http://db.uwaterloo.ca/~galuc/wsdbm/ProductCategory8"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product11121",
+        "?v6": "\"2474\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v5": "\"6\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v7": "\"motorizes Knapp cartwheeled\"",
+        "?v8": "http://db.uwaterloo.ca/~galuc/wsdbm/User20746",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic181",
+        "?v2": "http://auction.example.org/951-Product18519-49",
+        "?v4": "http://db.uwaterloo.ca/~galuc/wsdbm/ProductCategory14"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product11121",
+        "?v6": "\"2474\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v5": "\"6\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v7": "\"motorizes Knapp cartwheeled\"",
+        "?v8": "http://db.uwaterloo.ca/~galuc/wsdbm/User20746",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic181",
+        "?v2": "http://auction.example.org/951-Product9903-49",
+        "?v4": "http://db.uwaterloo.ca/~galuc/wsdbm/ProductCategory14"
+    }
+]

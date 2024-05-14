@@ -1,0 +1,142 @@
+[
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product4518",
+        "?v3": "\"calloused buzzing\"",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic63",
+        "?bid": "\"99\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/358-Product4518-99"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product4518",
+        "?v3": "\"calloused buzzing\"",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic165",
+        "?bid": "\"99\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/358-Product4518-99"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product4518",
+        "?v3": "\"calloused buzzing\"",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic234",
+        "?bid": "\"99\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/358-Product4518-99"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product4518",
+        "?v3": "\"calloused buzzing\"",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic45",
+        "?bid": "\"99\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/358-Product4518-99"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product4518",
+        "?v3": "\"calloused buzzing\"",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic244",
+        "?bid": "\"99\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/358-Product4518-99"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product4518",
+        "?v3": "\"calloused buzzing\"",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic231",
+        "?bid": "\"99\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/358-Product4518-99"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product4518",
+        "?v3": "\"calloused buzzing\"",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic226",
+        "?bid": "\"99\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/358-Product4518-99"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product4518",
+        "?v3": "\"calloused buzzing\"",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic82",
+        "?bid": "\"99\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/358-Product4518-99"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product4518",
+        "?v3": "\"calloused buzzing\"",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic242",
+        "?bid": "\"99\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/358-Product4518-99"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product4518",
+        "?v3": "\"calloused buzzing\"",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic32",
+        "?bid": "\"99\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/358-Product4518-99"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product12262",
+        "?v3": "\"stencil hairdresser merchandising bedsides topics Liverpudlian's\"",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic190",
+        "?bid": "\"86\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/677-Product12262-86"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product12262",
+        "?v3": "\"stencil hairdresser merchandising bedsides topics Liverpudlian's\"",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic72",
+        "?bid": "\"86\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/677-Product12262-86"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product12262",
+        "?v3": "\"stencil hairdresser merchandising bedsides topics Liverpudlian's\"",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic59",
+        "?bid": "\"86\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/677-Product12262-86"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product12262",
+        "?v3": "\"stencil hairdresser merchandising bedsides topics Liverpudlian's\"",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic42",
+        "?bid": "\"86\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/677-Product12262-86"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product12262",
+        "?v3": "\"stencil hairdresser merchandising bedsides topics Liverpudlian's\"",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic151",
+        "?bid": "\"86\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/677-Product12262-86"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product12262",
+        "?v3": "\"stencil hairdresser merchandising bedsides topics Liverpudlian's\"",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic86",
+        "?bid": "\"86\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/677-Product12262-86"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product12262",
+        "?v3": "\"stencil hairdresser merchandising bedsides topics Liverpudlian's\"",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic168",
+        "?bid": "\"86\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/677-Product12262-86"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product12262",
+        "?v3": "\"stencil hairdresser merchandising bedsides topics Liverpudlian's\"",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic231",
+        "?bid": "\"86\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/677-Product12262-86"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product12262",
+        "?v3": "\"stencil hairdresser merchandising bedsides topics Liverpudlian's\"",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic107",
+        "?bid": "\"86\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/677-Product12262-86"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product12262",
+        "?v3": "\"stencil hairdresser merchandising bedsides topics Liverpudlian's\"",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic62",
+        "?bid": "\"86\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/677-Product12262-86"
+    }
+]

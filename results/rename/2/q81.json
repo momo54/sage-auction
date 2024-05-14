@@ -1,0 +1,102 @@
+[
+    {
+        "?v0": "http://auction.example.org/901-Product10813-99",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/SubGenre78",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic31"
+    },
+    {
+        "?v0": "http://auction.example.org/901-Product10813-99",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/SubGenre78",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic53"
+    },
+    {
+        "?v0": "http://auction.example.org/901-Product10813-99",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/SubGenre78",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic143"
+    },
+    {
+        "?v0": "http://auction.example.org/901-Product10813-99",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/SubGenre78",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic215"
+    },
+    {
+        "?v0": "http://auction.example.org/901-Product10813-99",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/SubGenre78",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic249"
+    },
+    {
+        "?v0": "http://auction.example.org/901-Product10813-99",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/SubGenre78",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic88"
+    },
+    {
+        "?v0": "http://auction.example.org/901-Product10813-99",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/SubGenre78",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic243"
+    },
+    {
+        "?v0": "http://auction.example.org/901-Product10813-99",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/SubGenre78",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic42"
+    },
+    {
+        "?v0": "http://auction.example.org/901-Product10813-99",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/SubGenre78",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic86"
+    },
+    {
+        "?v0": "http://auction.example.org/901-Product10813-99",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/SubGenre78",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic120"
+    },
+    {
+        "?v0": "http://auction.example.org/901-Product10813-99",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/SubGenre78",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic123"
+    },
+    {
+        "?v0": "http://auction.example.org/901-Product10813-99",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/SubGenre78",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic76"
+    },
+    {
+        "?v0": "http://auction.example.org/901-Product10813-99",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/SubGenre75",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic31"
+    },
+    {
+        "?v0": "http://auction.example.org/901-Product10813-99",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/SubGenre75",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic53"
+    },
+    {
+        "?v0": "http://auction.example.org/901-Product10813-99",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/SubGenre75",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic143"
+    },
+    {
+        "?v0": "http://auction.example.org/901-Product10813-99",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/SubGenre75",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic215"
+    },
+    {
+        "?v0": "http://auction.example.org/901-Product10813-99",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/SubGenre75",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic249"
+    },
+    {
+        "?v0": "http://auction.example.org/901-Product10813-99",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/SubGenre75",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic88"
+    },
+    {
+        "?v0": "http://auction.example.org/901-Product10813-99",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/SubGenre75",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic243"
+    },
+    {
+        "?v0": "http://auction.example.org/901-Product10813-99",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/SubGenre75",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic42"
+    }
+]

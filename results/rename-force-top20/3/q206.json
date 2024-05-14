@@ -1,0 +1,222 @@
+[
+    {
+        "?v1": "http://auction.example.org/901-Product9781-99",
+        "?v9": "\"5198\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer1543",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/Review116734",
+        "?v8": "\"270\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v7": "\"carbine's Erickson nonreturnable Saturdays headway's wires soreheads Bartholomew Swift cam's unthinkingly\"",
+        "?v6": "\"lily congaed\"",
+        "?v4": "\"6\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v5": "http://db.uwaterloo.ca/~galuc/wsdbm/User90204"
+    },
+    {
+        "?v1": "http://auction.example.org/901-Product9781-99",
+        "?v9": "\"5198\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer1543",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/Review50705",
+        "?v8": "\"178\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v7": "\"smirk Cherokee dogie's fudged Revlon's limier precipice's Tartar's typifies tablets Merck messiah honestly prick's ordinariness's clearing's Accenture alleviates Palmer\"",
+        "?v6": "\"cornball Etta Roswell milkmaids stance's severs godly Pyongyang's outsize's wroth alligator establishing panickier dimness muffs cache\"",
+        "?v4": "\"7\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v5": "http://db.uwaterloo.ca/~galuc/wsdbm/User53575"
+    },
+    {
+        "?v1": "http://auction.example.org/901-Product9781-99",
+        "?v9": "\"5198\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer1543",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/Review66668",
+        "?v8": "\"496\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v7": "\"realistic polluter pinfeather's trills weaves substantiation accompaniments embossed Tell extremity's ecologist's quadrupeds paean's Brzezinski borer's Gascony gobbler grooviest leakier\"",
+        "?v6": "\"Torah Ethan crotchet's deftest archaeology's Carib's parches sniffs wounder grades garnish\"",
+        "?v4": "\"1\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v5": "http://db.uwaterloo.ca/~galuc/wsdbm/User99819"
+    },
+    {
+        "?v1": "http://auction.example.org/901-Product9781-99",
+        "?v9": "\"5198\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer4302",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/Review116734",
+        "?v8": "\"270\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v7": "\"carbine's Erickson nonreturnable Saturdays headway's wires soreheads Bartholomew Swift cam's unthinkingly\"",
+        "?v6": "\"lily congaed\"",
+        "?v4": "\"6\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v5": "http://db.uwaterloo.ca/~galuc/wsdbm/User90204"
+    },
+    {
+        "?v1": "http://auction.example.org/901-Product9781-99",
+        "?v9": "\"5198\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer4302",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/Review50705",
+        "?v8": "\"178\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v7": "\"smirk Cherokee dogie's fudged Revlon's limier precipice's Tartar's typifies tablets Merck messiah honestly prick's ordinariness's clearing's Accenture alleviates Palmer\"",
+        "?v6": "\"cornball Etta Roswell milkmaids stance's severs godly Pyongyang's outsize's wroth alligator establishing panickier dimness muffs cache\"",
+        "?v4": "\"7\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v5": "http://db.uwaterloo.ca/~galuc/wsdbm/User53575"
+    },
+    {
+        "?v1": "http://auction.example.org/901-Product9781-99",
+        "?v9": "\"5198\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer4302",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/Review66668",
+        "?v8": "\"496\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v7": "\"realistic polluter pinfeather's trills weaves substantiation accompaniments embossed Tell extremity's ecologist's quadrupeds paean's Brzezinski borer's Gascony gobbler grooviest leakier\"",
+        "?v6": "\"Torah Ethan crotchet's deftest archaeology's Carib's parches sniffs wounder grades garnish\"",
+        "?v4": "\"1\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v5": "http://db.uwaterloo.ca/~galuc/wsdbm/User99819"
+    },
+    {
+        "?v1": "http://auction.example.org/901-Product9781-99",
+        "?v9": "\"5198\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer48526",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/Review116734",
+        "?v8": "\"270\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v7": "\"carbine's Erickson nonreturnable Saturdays headway's wires soreheads Bartholomew Swift cam's unthinkingly\"",
+        "?v6": "\"lily congaed\"",
+        "?v4": "\"6\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v5": "http://db.uwaterloo.ca/~galuc/wsdbm/User90204"
+    },
+    {
+        "?v1": "http://auction.example.org/901-Product9781-99",
+        "?v9": "\"5198\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer48526",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/Review50705",
+        "?v8": "\"178\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v7": "\"smirk Cherokee dogie's fudged Revlon's limier precipice's Tartar's typifies tablets Merck messiah honestly prick's ordinariness's clearing's Accenture alleviates Palmer\"",
+        "?v6": "\"cornball Etta Roswell milkmaids stance's severs godly Pyongyang's outsize's wroth alligator establishing panickier dimness muffs cache\"",
+        "?v4": "\"7\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v5": "http://db.uwaterloo.ca/~galuc/wsdbm/User53575"
+    },
+    {
+        "?v1": "http://auction.example.org/901-Product9781-99",
+        "?v9": "\"5198\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer48526",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/Review66668",
+        "?v8": "\"496\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v7": "\"realistic polluter pinfeather's trills weaves substantiation accompaniments embossed Tell extremity's ecologist's quadrupeds paean's Brzezinski borer's Gascony gobbler grooviest leakier\"",
+        "?v6": "\"Torah Ethan crotchet's deftest archaeology's Carib's parches sniffs wounder grades garnish\"",
+        "?v4": "\"1\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v5": "http://db.uwaterloo.ca/~galuc/wsdbm/User99819"
+    },
+    {
+        "?v1": "http://auction.example.org/940-Product4387-60",
+        "?v9": "\"894\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer24841",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/Review91925",
+        "?v8": "\"306\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v7": "\"lassie scrofula Velveeta's auditors acacia's bistro's sugarcoats tick's peekaboo oculist's Endymion detritus Delaney's birching tailgating Palmyra gamin planting's preachy\"",
+        "?v6": "\"trinities impulsive Jessica birdseed's Winchell's urged downhill lacunas Cf's component's consumed accost's dereliction tensile centers semiprecious\"",
+        "?v4": "\"0\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v5": "http://db.uwaterloo.ca/~galuc/wsdbm/User82636"
+    },
+    {
+        "?v1": "http://auction.example.org/940-Product4387-60",
+        "?v9": "\"894\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer28545",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/Review91925",
+        "?v8": "\"306\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v7": "\"lassie scrofula Velveeta's auditors acacia's bistro's sugarcoats tick's peekaboo oculist's Endymion detritus Delaney's birching tailgating Palmyra gamin planting's preachy\"",
+        "?v6": "\"trinities impulsive Jessica birdseed's Winchell's urged downhill lacunas Cf's component's consumed accost's dereliction tensile centers semiprecious\"",
+        "?v4": "\"0\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v5": "http://db.uwaterloo.ca/~galuc/wsdbm/User82636"
+    },
+    {
+        "?v1": "http://auction.example.org/940-Product4387-60",
+        "?v9": "\"894\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer33910",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/Review91925",
+        "?v8": "\"306\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v7": "\"lassie scrofula Velveeta's auditors acacia's bistro's sugarcoats tick's peekaboo oculist's Endymion detritus Delaney's birching tailgating Palmyra gamin planting's preachy\"",
+        "?v6": "\"trinities impulsive Jessica birdseed's Winchell's urged downhill lacunas Cf's component's consumed accost's dereliction tensile centers semiprecious\"",
+        "?v4": "\"0\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v5": "http://db.uwaterloo.ca/~galuc/wsdbm/User82636"
+    },
+    {
+        "?v1": "http://auction.example.org/940-Product4387-60",
+        "?v9": "\"894\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer51083",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/Review91925",
+        "?v8": "\"306\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v7": "\"lassie scrofula Velveeta's auditors acacia's bistro's sugarcoats tick's peekaboo oculist's Endymion detritus Delaney's birching tailgating Palmyra gamin planting's preachy\"",
+        "?v6": "\"trinities impulsive Jessica birdseed's Winchell's urged downhill lacunas Cf's component's consumed accost's dereliction tensile centers semiprecious\"",
+        "?v4": "\"0\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v5": "http://db.uwaterloo.ca/~galuc/wsdbm/User82636"
+    },
+    {
+        "?v1": "http://auction.example.org/999-Product5321-1",
+        "?v9": "\"2586\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer41049",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/Review83178",
+        "?v8": "\"6\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v7": "\"clothiers\"",
+        "?v6": "\"subscribe cheeped layoffs GHQ's briefings Maoris thousandth's M piquancy legalized\"",
+        "?v4": "\"5\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v5": "http://db.uwaterloo.ca/~galuc/wsdbm/User70016"
+    },
+    {
+        "?v1": "http://auction.example.org/999-Product5321-1",
+        "?v9": "\"2586\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer41049",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/Review39165",
+        "?v8": "\"601\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v7": "\"orthogonality devouter mowing yogurt Robles's repertoire's strive meritocracy's chickadee's herbalist carapace's inoculation's geegaw's leeching squirmier fashioned rewrite's\"",
+        "?v6": "\"pectin Alioth burnish's verbiage's conceptions contour condemnatory aspirating dagger matchmaking scolds younger Munch productive ruptured pencils wins mongoose diver Moet's\"",
+        "?v4": "\"7\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v5": "http://db.uwaterloo.ca/~galuc/wsdbm/User12502"
+    },
+    {
+        "?v1": "http://auction.example.org/999-Product5321-1",
+        "?v9": "\"2586\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer83593",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/Review83178",
+        "?v8": "\"6\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v7": "\"clothiers\"",
+        "?v6": "\"subscribe cheeped layoffs GHQ's briefings Maoris thousandth's M piquancy legalized\"",
+        "?v4": "\"5\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v5": "http://db.uwaterloo.ca/~galuc/wsdbm/User70016"
+    },
+    {
+        "?v1": "http://auction.example.org/999-Product5321-1",
+        "?v9": "\"2586\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer83593",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/Review39165",
+        "?v8": "\"601\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v7": "\"orthogonality devouter mowing yogurt Robles's repertoire's strive meritocracy's chickadee's herbalist carapace's inoculation's geegaw's leeching squirmier fashioned rewrite's\"",
+        "?v6": "\"pectin Alioth burnish's verbiage's conceptions contour condemnatory aspirating dagger matchmaking scolds younger Munch productive ruptured pencils wins mongoose diver Moet's\"",
+        "?v4": "\"7\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v5": "http://db.uwaterloo.ca/~galuc/wsdbm/User12502"
+    },
+    {
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Product14767",
+        "?v9": "\"1703\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer29133",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/Review122089",
+        "?v8": "\"962\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v7": "\"unsubstantial firm Medea's brakemen looney Weyden steak's rearward foliage's workforce's graffiti gatherer abnegates audition's Jolene's race twelve's afoul Moliere Ebonics\"",
+        "?v6": "\"savannahs fouling grouted Lorelei cotyledons tolerance Zappa's tinkers subsisting hankie prophylactic\"",
+        "?v4": "\"3\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v5": "http://db.uwaterloo.ca/~galuc/wsdbm/User50932"
+    },
+    {
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Product14767",
+        "?v9": "\"1703\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer51050",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/Review122089",
+        "?v8": "\"962\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v7": "\"unsubstantial firm Medea's brakemen looney Weyden steak's rearward foliage's workforce's graffiti gatherer abnegates audition's Jolene's race twelve's afoul Moliere Ebonics\"",
+        "?v6": "\"savannahs fouling grouted Lorelei cotyledons tolerance Zappa's tinkers subsisting hankie prophylactic\"",
+        "?v4": "\"3\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v5": "http://db.uwaterloo.ca/~galuc/wsdbm/User50932"
+    },
+    {
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Product14767",
+        "?v9": "\"1703\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer58858",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/Review122089",
+        "?v8": "\"962\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v7": "\"unsubstantial firm Medea's brakemen looney Weyden steak's rearward foliage's workforce's graffiti gatherer abnegates audition's Jolene's race twelve's afoul Moliere Ebonics\"",
+        "?v6": "\"savannahs fouling grouted Lorelei cotyledons tolerance Zappa's tinkers subsisting hankie prophylactic\"",
+        "?v4": "\"3\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v5": "http://db.uwaterloo.ca/~galuc/wsdbm/User50932"
+    }
+]

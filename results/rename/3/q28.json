@@ -1,0 +1,142 @@
+[
+    {
+        "?v0": "http://auction.example.org/903-Product24278-97",
+        "?v3": "\"14\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Website2691",
+        "?v4": "http://db.uwaterloo.ca/~galuc/wsdbm/User11638",
+        "?v5": "http://db.uwaterloo.ca/~galuc/wsdbm/Gender1"
+    },
+    {
+        "?v0": "http://auction.example.org/903-Product24278-97",
+        "?v3": "\"14\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Website2691",
+        "?v4": "http://db.uwaterloo.ca/~galuc/wsdbm/User13771",
+        "?v5": "http://db.uwaterloo.ca/~galuc/wsdbm/Gender0"
+    },
+    {
+        "?v0": "http://auction.example.org/903-Product24278-97",
+        "?v3": "\"14\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Website2691",
+        "?v4": "http://db.uwaterloo.ca/~galuc/wsdbm/User16412",
+        "?v5": "http://db.uwaterloo.ca/~galuc/wsdbm/Gender1"
+    },
+    {
+        "?v0": "http://auction.example.org/903-Product24278-97",
+        "?v3": "\"14\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Website2691",
+        "?v4": "http://db.uwaterloo.ca/~galuc/wsdbm/User33882",
+        "?v5": "http://db.uwaterloo.ca/~galuc/wsdbm/Gender1"
+    },
+    {
+        "?v0": "http://auction.example.org/903-Product24278-97",
+        "?v3": "\"14\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Website2691",
+        "?v4": "http://db.uwaterloo.ca/~galuc/wsdbm/User4643",
+        "?v5": "http://db.uwaterloo.ca/~galuc/wsdbm/Gender1"
+    },
+    {
+        "?v0": "http://auction.example.org/903-Product24278-97",
+        "?v3": "\"14\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Website2691",
+        "?v4": "http://db.uwaterloo.ca/~galuc/wsdbm/User50590",
+        "?v5": "http://db.uwaterloo.ca/~galuc/wsdbm/Gender0"
+    },
+    {
+        "?v0": "http://auction.example.org/903-Product24278-97",
+        "?v3": "\"14\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Website2691",
+        "?v4": "http://db.uwaterloo.ca/~galuc/wsdbm/User62802",
+        "?v5": "http://db.uwaterloo.ca/~galuc/wsdbm/Gender1"
+    },
+    {
+        "?v0": "http://auction.example.org/903-Product24278-97",
+        "?v3": "\"14\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Website2691",
+        "?v4": "http://db.uwaterloo.ca/~galuc/wsdbm/User69307",
+        "?v5": "http://db.uwaterloo.ca/~galuc/wsdbm/Gender1"
+    },
+    {
+        "?v0": "http://auction.example.org/903-Product24278-97",
+        "?v3": "\"14\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Website2691",
+        "?v4": "http://db.uwaterloo.ca/~galuc/wsdbm/User71767",
+        "?v5": "http://db.uwaterloo.ca/~galuc/wsdbm/Gender0"
+    },
+    {
+        "?v0": "http://auction.example.org/903-Product24278-97",
+        "?v3": "\"14\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Website2691",
+        "?v4": "http://db.uwaterloo.ca/~galuc/wsdbm/User80344",
+        "?v5": "http://db.uwaterloo.ca/~galuc/wsdbm/Gender1"
+    },
+    {
+        "?v0": "http://auction.example.org/903-Product24278-97",
+        "?v3": "\"14\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Website2691",
+        "?v4": "http://db.uwaterloo.ca/~galuc/wsdbm/User80703",
+        "?v5": "http://db.uwaterloo.ca/~galuc/wsdbm/Gender0"
+    },
+    {
+        "?v0": "http://auction.example.org/903-Product24278-97",
+        "?v3": "\"14\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Website2691",
+        "?v4": "http://db.uwaterloo.ca/~galuc/wsdbm/User84944",
+        "?v5": "http://db.uwaterloo.ca/~galuc/wsdbm/Gender1"
+    },
+    {
+        "?v0": "http://auction.example.org/903-Product24278-97",
+        "?v3": "\"14\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Website2691",
+        "?v4": "http://db.uwaterloo.ca/~galuc/wsdbm/User88511",
+        "?v5": "http://db.uwaterloo.ca/~galuc/wsdbm/Gender1"
+    },
+    {
+        "?v0": "http://auction.example.org/903-Product24278-97",
+        "?v3": "\"14\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Website2691",
+        "?v4": "http://db.uwaterloo.ca/~galuc/wsdbm/User91396",
+        "?v5": "http://db.uwaterloo.ca/~galuc/wsdbm/Gender0"
+    },
+    {
+        "?v0": "http://auction.example.org/903-Product24278-97",
+        "?v3": "\"14\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Website2691",
+        "?v4": "http://db.uwaterloo.ca/~galuc/wsdbm/User96890",
+        "?v5": "http://db.uwaterloo.ca/~galuc/wsdbm/Gender0"
+    },
+    {
+        "?v0": "http://auction.example.org/903-Product24278-97",
+        "?v3": "\"14\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Website2691",
+        "?v4": "http://db.uwaterloo.ca/~galuc/wsdbm/User97430",
+        "?v5": "http://db.uwaterloo.ca/~galuc/wsdbm/Gender1"
+    },
+    {
+        "?v0": "http://auction.example.org/903-Product24278-97",
+        "?v3": "\"14\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Website2691",
+        "?v4": "http://db.uwaterloo.ca/~galuc/wsdbm/User99079",
+        "?v5": "http://db.uwaterloo.ca/~galuc/wsdbm/Gender1"
+    },
+    {
+        "?v0": "http://auction.example.org/903-Product24278-97",
+        "?v3": "\"14\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Website2691",
+        "?v4": "http://db.uwaterloo.ca/~galuc/wsdbm/User99145",
+        "?v5": "http://db.uwaterloo.ca/~galuc/wsdbm/Gender1"
+    },
+    {
+        "?v0": "http://auction.example.org/904-Product10734-96",
+        "?v3": "\"13\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Website3625",
+        "?v4": "http://db.uwaterloo.ca/~galuc/wsdbm/User11003",
+        "?v5": "http://db.uwaterloo.ca/~galuc/wsdbm/Gender0"
+    },
+    {
+        "?v0": "http://auction.example.org/904-Product10734-96",
+        "?v3": "\"13\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Website3625",
+        "?v4": "http://db.uwaterloo.ca/~galuc/wsdbm/User13669",
+        "?v5": "http://db.uwaterloo.ca/~galuc/wsdbm/Gender1"
+    }
+]

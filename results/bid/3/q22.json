@@ -1,0 +1,142 @@
+[
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product21479",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/SubGenre15",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic217",
+        "?bid": "\"100\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/484-Product21479-100"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product21479",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/SubGenre15",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic124",
+        "?bid": "\"100\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/484-Product21479-100"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product21479",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/SubGenre15",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic118",
+        "?bid": "\"100\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/484-Product21479-100"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product21479",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/SubGenre15",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic5",
+        "?bid": "\"100\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/484-Product21479-100"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product21479",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/SubGenre15",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic72",
+        "?bid": "\"100\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/484-Product21479-100"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product21479",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/SubGenre15",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic87",
+        "?bid": "\"100\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/484-Product21479-100"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product21479",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/SubGenre15",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic119",
+        "?bid": "\"100\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/484-Product21479-100"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product21479",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/SubGenre86",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic217",
+        "?bid": "\"100\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/484-Product21479-100"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product21479",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/SubGenre86",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic124",
+        "?bid": "\"100\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/484-Product21479-100"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product21479",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/SubGenre86",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic118",
+        "?bid": "\"100\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/484-Product21479-100"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product21479",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/SubGenre86",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic5",
+        "?bid": "\"100\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/484-Product21479-100"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product21479",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/SubGenre86",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic72",
+        "?bid": "\"100\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/484-Product21479-100"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product21479",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/SubGenre86",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic87",
+        "?bid": "\"100\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/484-Product21479-100"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product21479",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/SubGenre86",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic119",
+        "?bid": "\"100\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/484-Product21479-100"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product24278",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/SubGenre107",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic31",
+        "?bid": "\"97\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/216-Product24278-97"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product24278",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/SubGenre107",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic35",
+        "?bid": "\"97\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/216-Product24278-97"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product24278",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/SubGenre107",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic7",
+        "?bid": "\"97\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/216-Product24278-97"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product24278",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/SubGenre107",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic111",
+        "?bid": "\"97\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/216-Product24278-97"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product24278",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/SubGenre107",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic1",
+        "?bid": "\"97\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/216-Product24278-97"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product24278",
+        "?v3": "http://db.uwaterloo.ca/~galuc/wsdbm/SubGenre107",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic119",
+        "?bid": "\"97\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?altid": "http://auction.example.org/216-Product24278-97"
+    }
+]

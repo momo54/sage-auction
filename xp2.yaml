@@ -1,0 +1,8 @@
+name: watdiv
+output: results
+endpoint: http://localhost:8000/sparql 
+queries: queries/read/watdiv_bid
+runs: [1,2,3]
+approaches: ["rename-force-500ms"]
+
+    

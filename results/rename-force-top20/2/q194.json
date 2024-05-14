@@ -1,0 +1,102 @@
+[
+    {
+        "?v1": "http://auction.example.org/901-Product5144-99",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer2884",
+        "?v2": "\"2013-09-10\""
+    },
+    {
+        "?v1": "http://auction.example.org/901-Product5144-99",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer89092",
+        "?v2": "\"2013-12-20\""
+    },
+    {
+        "?v1": "http://auction.example.org/902-Product6808-98",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer39293",
+        "?v2": "\"2013-11-27\""
+    },
+    {
+        "?v1": "http://auction.example.org/902-Product6808-98",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer6887",
+        "?v2": "\"2013-10-14\""
+    },
+    {
+        "?v1": "http://auction.example.org/902-Product6808-98",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer75567",
+        "?v2": "\"2013-12-08\""
+    },
+    {
+        "?v1": "http://auction.example.org/904-Product2470-96",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer52798",
+        "?v2": "\"2013-10-10\""
+    },
+    {
+        "?v1": "http://auction.example.org/905-Product3708-95",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer9368",
+        "?v2": "\"2013-10-04\""
+    },
+    {
+        "?v1": "http://auction.example.org/908-Product15752-92",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer66540",
+        "?v2": "\"2013-10-29\""
+    },
+    {
+        "?v1": "http://auction.example.org/908-Product21280-92",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer37520",
+        "?v2": "\"2013-11-11\""
+    },
+    {
+        "?v1": "http://auction.example.org/908-Product21280-92",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer46411",
+        "?v2": "\"2013-11-07\""
+    },
+    {
+        "?v1": "http://auction.example.org/908-Product21280-92",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer76146",
+        "?v2": "\"2013-10-27\""
+    },
+    {
+        "?v1": "http://auction.example.org/908-Product21280-92",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer8401",
+        "?v2": "\"2013-09-07\""
+    },
+    {
+        "?v1": "http://auction.example.org/909-Product20643-91",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer16366",
+        "?v2": "\"2013-10-26\""
+    },
+    {
+        "?v1": "http://auction.example.org/909-Product20643-91",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer69199",
+        "?v2": "\"2013-10-24\""
+    },
+    {
+        "?v1": "http://auction.example.org/911-Product15626-89",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer11406",
+        "?v2": "\"2013-10-25\""
+    },
+    {
+        "?v1": "http://auction.example.org/915-Product19934-85",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer49497",
+        "?v2": "\"2013-11-01\""
+    },
+    {
+        "?v1": "http://auction.example.org/915-Product9932-85",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer15426",
+        "?v2": "\"2013-10-22\""
+    },
+    {
+        "?v1": "http://auction.example.org/918-Product5886-82",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer4818",
+        "?v2": "\"2013-09-10\""
+    },
+    {
+        "?v1": "http://auction.example.org/918-Product5886-82",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer54663",
+        "?v2": "\"2013-11-14\""
+    },
+    {
+        "?v1": "http://auction.example.org/918-Product5886-82",
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Offer58983",
+        "?v2": "\"2013-12-11\""
+    }
+]

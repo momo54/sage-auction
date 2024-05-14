@@ -1,0 +1,202 @@
+[
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product11442",
+        "?v6": "\"6496\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v5": "\"10\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v7": "\"fin\"",
+        "?v8": "http://db.uwaterloo.ca/~galuc/wsdbm/User10704",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic114",
+        "?v2": "http://db.uwaterloo.ca/~galuc/wsdbm/Product10029",
+        "?v4": "http://db.uwaterloo.ca/~galuc/wsdbm/ProductCategory10"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product11442",
+        "?v6": "\"6496\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v5": "\"10\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v7": "\"fin\"",
+        "?v8": "http://db.uwaterloo.ca/~galuc/wsdbm/User10704",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic114",
+        "?v2": "http://db.uwaterloo.ca/~galuc/wsdbm/Product10040",
+        "?v4": "http://db.uwaterloo.ca/~galuc/wsdbm/ProductCategory10"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product11442",
+        "?v6": "\"6496\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v5": "\"10\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v7": "\"fin\"",
+        "?v8": "http://db.uwaterloo.ca/~galuc/wsdbm/User10704",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic114",
+        "?v2": "http://db.uwaterloo.ca/~galuc/wsdbm/Product10058",
+        "?v4": "http://db.uwaterloo.ca/~galuc/wsdbm/ProductCategory11"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product11442",
+        "?v6": "\"6496\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v5": "\"10\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v7": "\"fin\"",
+        "?v8": "http://db.uwaterloo.ca/~galuc/wsdbm/User10704",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic114",
+        "?v2": "http://db.uwaterloo.ca/~galuc/wsdbm/Product10068",
+        "?v4": "http://db.uwaterloo.ca/~galuc/wsdbm/ProductCategory3"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product11442",
+        "?v6": "\"6496\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v5": "\"10\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v7": "\"fin\"",
+        "?v8": "http://db.uwaterloo.ca/~galuc/wsdbm/User10704",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic114",
+        "?v2": "http://db.uwaterloo.ca/~galuc/wsdbm/Product10073",
+        "?v4": "http://db.uwaterloo.ca/~galuc/wsdbm/ProductCategory8"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product11442",
+        "?v6": "\"6496\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v5": "\"10\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v7": "\"fin\"",
+        "?v8": "http://db.uwaterloo.ca/~galuc/wsdbm/User10704",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic114",
+        "?v2": "http://db.uwaterloo.ca/~galuc/wsdbm/Product1008",
+        "?v4": "http://db.uwaterloo.ca/~galuc/wsdbm/ProductCategory4"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product11442",
+        "?v6": "\"6496\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v5": "\"10\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v7": "\"fin\"",
+        "?v8": "http://db.uwaterloo.ca/~galuc/wsdbm/User10704",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic114",
+        "?v2": "http://db.uwaterloo.ca/~galuc/wsdbm/Product10080",
+        "?v4": "http://db.uwaterloo.ca/~galuc/wsdbm/ProductCategory11"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product11442",
+        "?v6": "\"6496\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v5": "\"10\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v7": "\"fin\"",
+        "?v8": "http://db.uwaterloo.ca/~galuc/wsdbm/User10704",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic114",
+        "?v2": "http://db.uwaterloo.ca/~galuc/wsdbm/Product10187",
+        "?v4": "http://db.uwaterloo.ca/~galuc/wsdbm/ProductCategory7"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product11442",
+        "?v6": "\"6496\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v5": "\"10\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v7": "\"fin\"",
+        "?v8": "http://db.uwaterloo.ca/~galuc/wsdbm/User10704",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic114",
+        "?v2": "http://db.uwaterloo.ca/~galuc/wsdbm/Product10218",
+        "?v4": "http://db.uwaterloo.ca/~galuc/wsdbm/ProductCategory5"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product11442",
+        "?v6": "\"6496\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v5": "\"10\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v7": "\"fin\"",
+        "?v8": "http://db.uwaterloo.ca/~galuc/wsdbm/User10704",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic114",
+        "?v2": "http://db.uwaterloo.ca/~galuc/wsdbm/Product10229",
+        "?v4": "http://db.uwaterloo.ca/~galuc/wsdbm/ProductCategory7"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product11442",
+        "?v6": "\"6496\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v5": "\"10\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v7": "\"fin\"",
+        "?v8": "http://db.uwaterloo.ca/~galuc/wsdbm/User10704",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic114",
+        "?v2": "http://db.uwaterloo.ca/~galuc/wsdbm/Product10235",
+        "?v4": "http://db.uwaterloo.ca/~galuc/wsdbm/ProductCategory13"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product11442",
+        "?v6": "\"6496\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v5": "\"10\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v7": "\"fin\"",
+        "?v8": "http://db.uwaterloo.ca/~galuc/wsdbm/User10704",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic114",
+        "?v2": "http://db.uwaterloo.ca/~galuc/wsdbm/Product10257",
+        "?v4": "http://db.uwaterloo.ca/~galuc/wsdbm/ProductCategory14"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product11442",
+        "?v6": "\"6496\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v5": "\"10\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v7": "\"fin\"",
+        "?v8": "http://db.uwaterloo.ca/~galuc/wsdbm/User10704",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic114",
+        "?v2": "http://db.uwaterloo.ca/~galuc/wsdbm/Product10261",
+        "?v4": "http://db.uwaterloo.ca/~galuc/wsdbm/ProductCategory5"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product11442",
+        "?v6": "\"6496\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v5": "\"10\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v7": "\"fin\"",
+        "?v8": "http://db.uwaterloo.ca/~galuc/wsdbm/User10704",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic114",
+        "?v2": "http://db.uwaterloo.ca/~galuc/wsdbm/Product10341",
+        "?v4": "http://db.uwaterloo.ca/~galuc/wsdbm/ProductCategory5"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product11442",
+        "?v6": "\"6496\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v5": "\"10\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v7": "\"fin\"",
+        "?v8": "http://db.uwaterloo.ca/~galuc/wsdbm/User10704",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic114",
+        "?v2": "http://db.uwaterloo.ca/~galuc/wsdbm/Product10355",
+        "?v4": "http://db.uwaterloo.ca/~galuc/wsdbm/ProductCategory9"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product11442",
+        "?v6": "\"6496\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v5": "\"10\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v7": "\"fin\"",
+        "?v8": "http://db.uwaterloo.ca/~galuc/wsdbm/User10704",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic114",
+        "?v2": "http://db.uwaterloo.ca/~galuc/wsdbm/Product10416",
+        "?v4": "http://db.uwaterloo.ca/~galuc/wsdbm/ProductCategory2"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product11442",
+        "?v6": "\"6496\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v5": "\"10\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v7": "\"fin\"",
+        "?v8": "http://db.uwaterloo.ca/~galuc/wsdbm/User10704",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic114",
+        "?v2": "http://db.uwaterloo.ca/~galuc/wsdbm/Product10568",
+        "?v4": "http://db.uwaterloo.ca/~galuc/wsdbm/ProductCategory14"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product11442",
+        "?v6": "\"6496\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v5": "\"10\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v7": "\"fin\"",
+        "?v8": "http://db.uwaterloo.ca/~galuc/wsdbm/User10704",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic114",
+        "?v2": "http://db.uwaterloo.ca/~galuc/wsdbm/Product1073",
+        "?v4": "http://db.uwaterloo.ca/~galuc/wsdbm/ProductCategory11"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product11442",
+        "?v6": "\"6496\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v5": "\"10\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v7": "\"fin\"",
+        "?v8": "http://db.uwaterloo.ca/~galuc/wsdbm/User10704",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic114",
+        "?v2": "http://db.uwaterloo.ca/~galuc/wsdbm/Product10823",
+        "?v4": "http://db.uwaterloo.ca/~galuc/wsdbm/ProductCategory14"
+    },
+    {
+        "?v0": "http://db.uwaterloo.ca/~galuc/wsdbm/Product11442",
+        "?v6": "\"6496\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v5": "\"10\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+        "?v7": "\"fin\"",
+        "?v8": "http://db.uwaterloo.ca/~galuc/wsdbm/User10704",
+        "?v1": "http://db.uwaterloo.ca/~galuc/wsdbm/Topic114",
+        "?v2": "http://db.uwaterloo.ca/~galuc/wsdbm/Product10890",
+        "?v4": "http://db.uwaterloo.ca/~galuc/wsdbm/ProductCategory7"
+    }
+]
